@@ -1,0 +1,5 @@
+streamlit
+geopy
+streamlit-geolocation
+pandas
+numpy
